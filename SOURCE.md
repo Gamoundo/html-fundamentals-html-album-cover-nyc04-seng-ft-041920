@@ -1,6 +1,6 @@
 <!-- FRONT -->
 
-<h1>PHARRELL WILLIAMS</h1>
+<h4>PHARRELL WILLIAMS</h4>
 
 <h2>HAPPY</h2>
 
